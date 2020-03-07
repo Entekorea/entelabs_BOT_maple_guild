@@ -11,7 +11,7 @@
 
 
 
-서버 바꾸려면 Utils.getWebText("https://maple.gg/guild/union/ <-여기 초록색이 서버명
+서버 바꾸려면 Utils.getWebText("https://maple.gg/guild/union/ <-여기에서 마지막에 union 이 서버명 들어가는 자리
 
 리부트: reboot
 
